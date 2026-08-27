@@ -1,4 +1,4 @@
-Readme# OpenShift Platform Repository Template
+# OpenShift Platform Repository Template
 
 Repositorio plantilla para la gestión declarativa de la configuración Day-2 y de los servicios de plataforma de clústeres Red Hat OpenShift.
 
